@@ -2,8 +2,8 @@
 // Crea una variabile chiamata name e assegnale il tuo nome.
 // Stampa il valore di nome nella console.
 
-let Name;
-Name = 'Valentina'; 
+
+const Name = 'Valentina'; 
 console.log(Name); 
 
 
